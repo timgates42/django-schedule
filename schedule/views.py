@@ -62,7 +62,7 @@ def calendar_by_periods(request, calendar_slug, periods=None,
         This is the Calendar that is designated by the ``calendar_slug``.
 
     ``weekday_names``
-        This is for convenience. It returns the local names of weekedays for
+        This is for convenience. It returns the local names of weekdays for
         internationalization.
 
     """
